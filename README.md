@@ -5,6 +5,8 @@
 - Baixe o .Zip do projeto
 
 
+
+
 Crie o Arquivo .env
 ```sh
 cp .env.example .env
