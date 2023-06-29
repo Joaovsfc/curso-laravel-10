@@ -25,6 +25,7 @@ services:
             - sistema-getao-network
      # db mysql ${DB_DATABASE} //Busca do arquivo .env
     mysql:
+        platform: linux/amd64  
         container_name: banco-mysql
         image: mysql:5.7.22
         restart: unless-stopped
