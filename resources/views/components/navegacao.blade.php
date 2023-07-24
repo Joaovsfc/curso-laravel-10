@@ -14,7 +14,7 @@
               </a>
           </li>
           <li class="nav-item">
-              <a class="nav-link" href="{{ route('produtos.index') }}">
+              <a class="nav-link" href="{{ route('produto.index') }}">
                   <span data-feather="shopping-cart" class="align-text-bottom"></span>
                   Produtos
               </a>
